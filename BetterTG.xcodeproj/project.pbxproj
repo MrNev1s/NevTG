@@ -117,8 +117,8 @@
 				DF9C5CC0292698BC00ED1CA8 /* TDLibKit */,
 				DF55E2D1295B783F00A30C76 /* MobileVLCKit */,
 			);
-			productName = BetterTG;
-			productReference = DF4B997E28C3F3F50087C1B9 /* BetterTG.app */;
+			productName = NevTG;
+			productReference = DF4B997E28C3F3F50087C1B9 /* NevTG.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -129,14 +129,14 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
-				LastUpgradeCheck = 1620;
+				LastUpgradeCheck = 1321;
 				TargetAttributes = {
 					DF4B997D28C3F3F50087C1B9 = {
-						CreatedOnToolsVersion = 14.0;
+						CreatedOnToolsVersion = 13.0;
 					};
 				};
 			};
-			buildConfigurationList = DF4B997928C3F3F50087C1B9 /* Build configuration list for PBXProject "BetterTG" */;
+			buildConfigurationList = DF4B997928C3F3F50087C1B9 /* Build configuration list for PBXProject "NevTG" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
